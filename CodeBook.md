@@ -16,8 +16,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Information on the variables of the tidy data set
 
-* Number of activities (rows): xxxxx
-* Number of variables (columns): xxxx
+* Number of activities (rows): 180 (6 different activities for 30 subjects)
+* Number of variables (columns): 68
+
+The two first columns give the subject number and the activity description. The 66 other columns are the averages of the extracted measurements for each subject and each activity. The extracted measurements are all the measurements of the mean and standard deviation in the original data set.
 
 
 ### Analysis steps
